@@ -1,0 +1,7 @@
+5d2802ef8ceb3db05d2cfc9348fa7905957f0681		branch 'Decimal-Leftover-Digits' of https://github.com/pingcap/parser
+dfc579de601dbb11a2da7222b658482b0f664c39		branch 'dongxu/add-flush-logs' of https://github.com/pingcap/parser
+6c8ae87db685bb37d030cca9728926e49e69f9e7		branch 'kennytm/keyword-expressions' of https://github.com/pingcap/parser
+fc7183c0457d41b6095591e207cab3ba4cd73f86		branch 'leoppro/compatibility_reporter' of https://github.com/pingcap/parser
+5fdd632cb2aa59dc0dc8688208c07a004938d3d7		branch 'master' of https://github.com/pingcap/parser
+20e37a65d7184284f67ae7927767a145ce5329a2		branch 'release-2.1' of https://github.com/pingcap/parser
+c3bdffe5d00e3b9078106d5ef15f468003645f5f		branch 'release-3.0' of https://github.com/pingcap/parser

@@ -1,0 +1,17 @@
+24d587f42fd44f25f870d268d3c7be5b3374d0a8		branch 'codeowners' of https://github.com/cweill/gotests
+88d586d842701ac013a269d0b2445b68f64850a0		branch 'develop' of https://github.com/cweill/gotests
+935af8644d7f31f2af9f5264406dab9e371daf05		branch 'feature/codeclimate_coverage' of https://github.com/cweill/gotests
+b3f8bb1e123ed5acdc6d6bac8cd95fc0451655cc		branch 'feature/fix_travis' of https://github.com/cweill/gotests
+cb0311c492a0721e27a971403b4d82f4713315be		branch 'go-11.1' of https://github.com/cweill/gotests
+a871e1d1c88b0ee28682da3618ed105bcd67ef4f		branch 'master' of https://github.com/cweill/gotests
+92e2da239afb3a525c2933d14b137486f6f90064		branch 'release/1.5.3' of https://github.com/cweill/gotests
+11c7af56107a4280b32ce3f86a90a085c9af9d1b		tag 'v1.0' of https://github.com/cweill/gotests
+f6a78f36f015b952b1454c8f06f163ea5deeaa8e		tag 'v1.0-beta' of https://github.com/cweill/gotests
+9f0c640563e9b37f4f3a1ffa0d63c6678f727e12		tag 'v1.1' of https://github.com/cweill/gotests
+f32afca640dd234b015ba0fe26205af3c1bc5ff2		tag 'v1.2' of https://github.com/cweill/gotests
+7beee59580c2e9e90b3c657e3adde450ab8fdba9		tag 'v1.3.0' of https://github.com/cweill/gotests
+2631d4728cf5b18ae3bf0839debc5e5a56527eb6		tag 'v1.4.0' of https://github.com/cweill/gotests
+7c6df638d40adab856d67818a906bb91a351924b		tag 'v1.5.0' of https://github.com/cweill/gotests
+efeb9cff0e4b88d0cf351234f917dd38c6c3894c		tag 'v1.5.1' of https://github.com/cweill/gotests
+a3c1a1257668d18c210c0a63299466e301f67c27		tag 'v1.5.2' of https://github.com/cweill/gotests
+893b5761d2ad1af5776fcb09e7faff817becb1d8		tag 'v1.5.3' of https://github.com/cweill/gotests

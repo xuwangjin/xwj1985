@@ -1,0 +1,4 @@
+8b9c05ee162eed5710b25325eaaa978f00470f91		branch 'master' of https://github.com/siddontang/go-mysql
+f71436fa027983a54c4830ff301bca27ac6e9403		branch 'qiuyesuifeng/binlog' of https://github.com/siddontang/go-mysql
+eac027116bb732c8fcabcce08dd0720fbbbb46cd		branch 'siddontang/skip-master-data' of https://github.com/siddontang/go-mysql
+9ff97d5714e3c9ea128bde11a8cd4b9b43f2868d		branch 'siddontang/update-eof' of https://github.com/siddontang/go-mysql

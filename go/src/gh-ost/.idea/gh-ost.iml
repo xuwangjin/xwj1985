@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/vendor/github.com/outbrain/golib/sqlutils" />
+    <content url="file://$MODULE_DIR$/vendor/github.com/siddontang/go-mysql/cmd/go-mysqlbinlog" />
+    <content url="file://$MODULE_DIR$/vendor/github.com/siddontang/go-mysql/replication" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

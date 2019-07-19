@@ -1,0 +1,8 @@
+34a9bd8e448b61968f048c3acc49e7114b10e8fd		branch 'busyjay/opt-is' of https://github.com/pingcap/tipb
+a8771b485af8a406a919b116af54e13686304d86		branch 'experiment' of https://github.com/pingcap/tipb
+d6859c6c7d329523c3052d8f6f89ebfff0559923		branch 'hyq/for-amao' of https://github.com/pingcap/tipb
+a9abc5c52cdf8b89d72f2ccc28a089edb815471e		branch 'ian/binlog' of https://github.com/pingcap/tipb
+1b33604708b0c57bd0af20a99ac2896aef4f80cc		branch 'master' of https://github.com/pingcap/tipb
+5eaa61369eb4a89b02474c9ff8fdee851cb00c19		branch 'shirly/import' of https://github.com/pingcap/tipb
+0922bd11aec18703e8064aae2a2f0fc12ce81ef6		branch 'siddontang/protobuf-1.2.1' of https://github.com/pingcap/tipb
+0410bd90b1c02275e2aae37174d07e63c922f105		branch 'winkyao/add_checksum' of https://github.com/pingcap/tipb
